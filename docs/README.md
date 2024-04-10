@@ -19,3 +19,10 @@ def fib(n):
   if n==0:
     return 5
 ```
+
+``` magma
+for i in [1..10] do
+  i +:= 1;
+  print(i);
+end for;
+```
