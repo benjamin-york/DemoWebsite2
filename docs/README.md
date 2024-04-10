@@ -1,7 +1,7 @@
-#Benjamin York Demo Page
-##This is a test website
-###smaller header
+# Benjamin York Demo Page
+## This is a test website
+### smaller header
 
--First item
--Second item
--Fifth item (third and fourth were skipped)
+- First item
+- Second item
+- Fifth item (third and fourth were skipped)
