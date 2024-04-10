@@ -13,3 +13,8 @@
 [My Math Home Page](https://benjamin-york.github.io/)
 
 ![An Image](./IMG_0287.jpeg)
+
+```python
+def fib(n):
+  if n==0:
+    return 5
