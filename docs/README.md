@@ -9,3 +9,5 @@
 1. Number 1
 2. Number 2
 3. Number 3
+
+$$\int_{0}^{\infty} f(x) dx$$
